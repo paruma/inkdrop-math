@@ -1,10 +1,10 @@
 {
-  "name": "math",
+  "name": "math-paruma",
   "main": "./lib/index",
   "version": "1.1.0",
   "description": "Add math syntax support to the editor and the preview",
   "keywords": [],
-  "repository": "https://github.com/inkdropapp/inkdrop-math",
+  "repository": "https://github.com/paruma/inkdrop-math",
   "license": "MIT",
   "styleSheets": [
     "markdown-math.less"
